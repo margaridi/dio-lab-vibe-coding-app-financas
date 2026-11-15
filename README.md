@@ -1202,6 +1202,7 @@ Mesmo com todo o refinamento feito pelo Copilot, devido à quantidade de funcion
 Eu já uso IAs regularmente. Mas a questão do uso de créditos do Lovlable chama a atenção para o controle de custos. Pela complexidade do desenvolvimento, um custo de R$ 25 não foi excessivo, mas sem controle, alarmes e relatórios de acompanhamento, os custos podem ficar excessivamente elevados.
 
 **Link da aplicação publicada**
+
 https://spec-to-app-workshop.lovable.app/
 
 
